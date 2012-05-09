@@ -22,7 +22,7 @@ function pro_101_specialties_content_content_menu_links_defaults() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-38',
+    'weight' => '0',
   );
   // Translatables
   // Included for use with string extractors like potx.
