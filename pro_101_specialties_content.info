@@ -1,7 +1,7 @@
 name = Pro 101 Specialties Content
 description = Default content for the Pro 101 Specialty feature.
 core = 7.x
-package = Pro 101 Content (L)
+package = Pro 101 Defaults (L)
 php = 5.2.4
 version = 7.x-1.0
 project = pro_101_specialties_content
